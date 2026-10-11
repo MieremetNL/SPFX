@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://m365x4303835.sharepoint.com/sites/Learning/SitePages/Home.aspx",
+      "pageUrl": "https://nictiznl.sharepoint.com/sites/Informatiemanagement/SitePages/Home.aspx",
       "customActions": {
         "a82c7644-3927-44e4-8d67-edfaace16d38": {
           "location": "ClientSideExtension.ApplicationCustomizer",
@@ -15,7 +15,7 @@
       }
     },
     "siteContentRibbon": {
-      "pageUrl": "https://m365x4303835.sharepoint.com/sites/Learning/SitePages/Home.aspx",
+      "pageUrl": "https://nictiznl.sharepoint.com/sites/Informatiemanagement/SitePages/Home.aspx",
       "customActions": {
         "a82c7644-3927-44e4-8d67-edfaace16d38": {
           "location": "ClientSideExtension.ApplicationCustomizer",
